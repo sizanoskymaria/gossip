@@ -1,6 +1,7 @@
 /*
 @Author: Maria Clara
 */
+@import url(https://fonts.googleapis.com/css2?family=Pacifico:wght@100&display=swap);
 h1 {
-    font-family: "Sofia", 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    font-family: Pacifico;
 }
