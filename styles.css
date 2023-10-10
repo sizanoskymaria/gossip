@@ -1,0 +1,72 @@
+/*
+@Autor: Maria Clara
+ */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+body {
+    text-align: center;
+    background-color: black;
+}
+#titulo {
+    text-align: center;
+    font-family: "Abril Fatface" , cursive ;
+    color: deeppink;
+    font-size: 90px;
+    margin-top: 0px;
+}
+
+img {
+    width: 68px;
+    align-content: first;
+    }
+
+#objetivo {
+    text-align: right;
+    color: aliceblue;
+}
+
+#sub\ titulo{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "AKG Verdana";
+    text-align: center;
+}
+
+#sub\ titulo\ 2{
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "AKG Verdana";
+    text-align: center;
+}
+
+#sub\ titulo\ 3{
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "AKG Verdana";
+    text-align: center;
+}
+
+.opção1{
+    font-size: 25px;
+    color: hotpink;
+    font-family: "Comfortaa" , cursive;
+    text-align: left;
+    padding-right: 20px;
+}
+
+.opção2{
+    font-size: 25px;
+    color: hotpink;
+    font-family: "Comfortaa" , cursive;
+    text-align: center;
+    padding-right: 20px;
+}
+
+.opção3{
+    font-size: 25px;
+    color: hotpink;
+    font-family: "Comfortaa" , cursive;
+    text-align: right;
+    padding-right: 20px;
+}
+
